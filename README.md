@@ -1,6 +1,7 @@
 # geek-quiz
 
 Quiz App
+Website - https://pallaviharish.github.io/geek-quiz/
 
 ![pic4](https://github.com/PallaviHarish/geek-quiz/assets/106737458/d4f2c90f-4ef8-47e7-b498-d148339dde6b)
 
