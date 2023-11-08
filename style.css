@@ -16,6 +16,13 @@ body{
         url(bg.jpg)
         center / cover no-repeat fixed;
 }
+@media  screen and (max-width:650px) {
+    body{
+        background:
+        url(pic.jpg)
+        center / cover no-repeat fixed;
+    }
+}
 .app{
     background: #fff;
     width: 90%;
